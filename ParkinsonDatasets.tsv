@@ -1,0 +1,21 @@
+cMD proposed code	doi.org link	Sequence Acc. code	Seq. Repo.	Sequence Acquisition status	Sample metadata acquisition status	Cases/Controls	Country & geography	Notes
+BoktorJC_2023	https://doi.org/10.1002/mds.29300	ERP138199	ENA		Table S10	46/26 HC + 41 PC	"Chicago, USA"	
+BoktorJC_2023	https://doi.org/10.1002/mds.29300	ERP138197	ENA		Table S10	88/30 HC + 42 PC	USA	
+MetcalfeRoachA_2024	https://doi.org/10.1002/mds.29959	Upon request			Requested via email	176/100	Canada	Ref 2 has 16S dataset from same authors
+QianY_2020	https://doi.org/10.1093/brain/awaa201	PRJNA433459	NCBI BioProject		Requested via email	40/40 + 218 with different diseases for validation 	Shanghai (China)	
+PalaciosN_2023	https://doi.org/10.1002/ana.26719	phs002193.v1.p1	dbGAP		Needs official request	75 PD + 101 Prodormal/131 healthy + 113 healthy and constipated	"Boston, USA"	
+DuruIC_2024	https://doi.org/10.1038/s41598-024-69742-4	PRJEB59350	ENA		Requested via email (NDA required)	68/68 controls	"Helsinki, Finland"	A lot of interesting analysis methods
+ZhangF_2020	https://doi.org/10.21203/rs.2.21271/v2	NA	Upon request		Upon request	46/46 Household Ctrl	Central China	
+WallenZD_2022	https://doi.org/10.1038/s41467-022-34667-x	From Haydeh or PRJNA834801	ASAP hub or ENA		Available at Zenodo (no host genetics)	490/234 ctrls	Deep South USA	
+NishiwakiH_2024	https://doi.org/10.1038/s41531-024-00724-z	DRA016410	SRA		Upon request	94/73 ctrl	"Nagoya, Japan"	"Did meta-analysis on 9 data sets (10 - Jo 2022), see table S1"
+BedarfJR_2017	https://doi.org/10.1186/s13073-017-0428-y	ERP019674	ENA		Upon request	31/28 ctrl	"Bonn, Germany"	"WangS found AUC 0.91 using biosynthetic gene clusters https://doi.org/10.1016/j.neulet.2018.12.021, phages discussed by https://doi.org/10.1038/s41598-018-29173-4"
+MaoL_2021	https://doi.org/10.3389/fmicb.2021.728479	PRJNA588035	NCBI SRA		Upon request	39/39 ctrl	"Xiangyang, China"	
+JoS_2022	https://doi.org/10.1038/s41531-022-00351-6	PRJNA743718	NCBI SRA		Upon request	82/74 ctrl	Seoul/South Korea	"It was excluded in Nishiwaki 2024 meta-analysis, see table S1 for why"
+ZhangM_2023	https://doi.org/10.3389/fnagi.2023.1148546	PRJNA985875	NCBI SRA		Upon request	24/0 ctrl	"Huai’an, China"	Sex differences among PD patients
+QianY_2024	https://dx.doi.org/10.2139/ssrn.4871254	Upon request	Authors		Upon request	39/39 ctrl	"Ruijin, China"	
+BeckerA_2022	https://doi.org/10.1016/j.gpb.2021.08.009	"PRJCA004435, official request needed"	China National center for Bioinformation		Upon request	"32 PD + resistant starch, 25 PD + diet, 30 ctrls"	China	"Just cases, but interesting experimental design"
+NieS_2023	https://doi.org/10.1007/s00253-023-12489-1	"CNP0003327, needs request"	China National GeneBank DataBase		Upon request	47 PD/ 43 Healthy	China	
+BolliriC_2022	https://doi.org/10.1002/ana.26454	Upon request	Authors		Upon request	"20 x 2 monoz. Twins, discordant for PD"	Italy	Very few signals found
+ChenS_2022	https://doi.org/10.1212/WNL.0000000000013225	SUB10308106 or PRJNA762484	NCBI BioSample or SRA		Upon request	96 PD / 85 HC	Taiwan	SCFA data available too
+LiZ_2021	https://doi.org/10.3389/fimmu.2021.632482	CNP0001697 but it isn’t there	China National GeneBank DataBase		Upon request	69 PD / 81 Healthy age matched + 66 spouses + 97 “Normal controls”	"Guangzhou, China"	"Health controls (N=81) is a different dataset, should be asked separately. Also, separate “normal controls”were from https://doi.org/10.1038/s41467-017-00900-1"
+LeeEJ_2024	https://doi.org/10.21203/rs.3.rs-3742244/v1		Not stated		Not stated	"15 body-first PD, 9 brain-first pD, 12 undetermined PD "	"Suwon, South Korea"	Nice parkinson subtyping through diagnosis

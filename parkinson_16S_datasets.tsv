@@ -2,7 +2,7 @@ cMD proposed code	doi.org link	Micobiome Body site	16S region	Cases/Controls	Cou
 PetrovVA_2017	10.1007/s10517-017-3700-7	gut	V3-V4	"89 cases, 66 ctrls"	Russia	Needs request	Needs request	Federal Target Program	No	
 AhoVTE_2024	10.1038/s41531-024-00687-1	gut	V3-V4	"90 Ctrl, 60 PD normocognitive, 58 PD with mild cognitive impairment"	Luxembourg	Needs official request 	Needs official request 	H2020; Luxembourg National Research Fund	No	
 ZhangF_2020	10.1016/j.parkreldis.2020.10.034	gut	V4	"63 PD, 63 healthy spouses, 74 non-cohabiting controls"	China	https://ngdc.cncb.ac.cn/gsa/browse/CRA001938	Needs request	NA	No	
-VascellariS_2020	10.1128/mSystems.00561-20	gut	V3-V4	"64 PD, 51 ctrls"	Italy	https://www.ebi.ac.uk/ena/browser/view/PRJEB30401	https://www.ebi.ac.uk/ena/browser/view/PRJEB36138	Fondazione di Sardegna	No	"They talk about metadata in data accession, but I can’t see it in ENA"
+VascellariS_2020	10.1128/mSystems.00561-20	gut	V3-V4	"64 PD, 51 ctrls"	Italy	"https://www.ebi.ac.uk/ena/browser/view/PRJEB30401, https://www.ebi.ac.uk/ena/browser/view/PRJEB36138"	Needs request	Fondazione di Sardegna	No	"They talk about metadata in data accession, but I can’t see it in ENA"
 BarichellaM_2019	10.1002/mds.27581	gut	V3-V4	"193 idiopathic PD, 22 supranuclear palsy PD, 22 Multiple System Atrophy PD, 113 ctrls"	Italy	Needs request	Needs request	Fondazione Grigioni per il morbo di Parkinson	No	Nice phenotyping and stratification of PD
 LiC_2019	10.3389/fnmol.2019.00171	gut	V4	"51 PD, 48 healthy spouses"	China	Needs request	Needs request	Jilin Province Natural Science Foundation	No	
 MihailaD_2019	10.1371/journal.pone.0218252	oral	NA	"48 PD, 36 Ctrl"	United States	Needs request	Needs request	Quadrant Biosciences	No	
@@ -14,14 +14,14 @@ BaldiniF_2020	10.1186/s12915-020-00775-7	gut	V3-V4	"147 PD, 162 ctrls"	Luxembour
 HopfnerF_2017	10.1016/j.brainres.2017.04.019	gut	V1-V2	"29 PD, 29 age-matched ctrls"	Germany	Needs request	"Supplementary xlsx sheet, incomplete"	NA	No	
 LinA_2018	10.1016/j.parkreldis.2018.05.007	gut	V4	"75 PD, 45 age-matched ctrls"	China	Needs request	Needs request	National Nature Science Foundation of China	Methods	
 AhoVTE_2019	10.1016/j.ebiom.2019.05.064	gut	V1-V3	"64 PD, 64 ctrls, abt 2 y apart, age sex matched"	Finland (See ScheperjansF_2014)	https://www.ebi.ac.uk/ena/browser/view/PRJEB27564	Needs request and cannot be disclosed		Methods	
-Heintz-BuschartA_2018	10.1002/mds.27105	"nose, gut"	V4	"76 PD, 21 idiop. REM disorder, 78 ctrls"	Germany	https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA381395	Supplementary file 1	"Many big pharmas, MJFF"	Supplementary file 1	"18S data as we, two body sites"
+Heintz-BuschartA_2017	10.1002/mds.27105	"nose, gut"	V4	"76 PD, 21 idiop. REM disorder, 78 ctrls"	Germany	https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA381395	Supplementary file 1	"Many big pharmas, MJFF"	Supplementary file 1	"18S data as we, two body sites"
 LiF_2019	10.1016/j.neulet.2019.134297	gut	unclear	"10 PD, 10 ctrls"	China	Needs request	"Main text, table 1"	Natural Fund Guidance Program of Liaoning Province	No	
 DelChiericoF_2020	10.2217/fmb-2019-0336	gut	V3-V4	"10 PD wth weight loss, age-sex matched 10 PD without weight loss and 8 ctrls"		Needs request	Needs request	Chiesi pharma	No	
 RenT_2021	10.3389/fneur.2020.00137	gut	V4-V5	"13 PD with mild cognitive impairment, 14 PD normogognitive, 13 health spouses"	China	Needs request	Needs request	Chinese public institutions	Methods	"Also fecal SCFA profiles. They report V3-V4, but primer names show different start-end points"
 BoertienJM_2022	10.1038/s41531-022-00395-8	gut	V4	"Dutch: 136 PD, 85 ctrls; Finnish: 56 PD, 87 ctrls"	"Dutch (cohort 1); Finnish (cohort 2, also see AhoVTE_2019)"	https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJEB55464	Needs request	Both public and private	Methods	
 KeshavarzianA_2015	10.1002/mds.26307	gut	V4	"38 PD, 34 ctrls"	United States	https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA268515	Table S2	MJFF and other private foundation	Illumina demultiplexing from Table S1	
 ZhangK_2022	10.3233/JPD-223500	gut	V4	"96 PD, 74 ctrls"	United States	Needs request	Needs request	Several public datasets	No	
-AhoVTE_2021	https://doi.org/10.1186/s13024-021-00427-6	See ScheperjansF_2014	See ScheperjansF_2014	See ScheperjansF_2014	See ScheperjansF_2014	See ScheperjansF_2014	See ScheperjansF_2014	See ScheperjansF_2014	See ScheperjansF_2014	Also fecal SCFA profiles
+AhoVTE_2021	https://doi.org/10.1186/s13024-021-00427-6	see ScheperjansF_2014	see ScheperjansF_2014	See ScheperjansF_2014	See ScheperjansF_2014	See ScheperjansF_2014	See ScheperjansF_2014	See ScheperjansF_2014	See ScheperjansF_2014	Also fecal SCFA profiles
 WeiL_2017	10.1007/s11427-016-9001-4	gut	V3-V4	"24 PD, 14 ctrls"	China	Needs request	Needs request	NA	Methods	
 Hill-BurnsE_2017	10.1002/mds.26942	gut	V4	"197 PD, 130 ctrls"	United States	https://www.ebi.ac.uk/ena/browser/view/PRJEB14674	Ask Haydeh	National Institute of Neurological Disorders and Stroke grant R01036960 to H.P. Udall grant	Cites Caporaso 2012	
 ZapalaB_2021	https://doi.org/10.3390/jcm10235698	gut	V3-V4	"27 PD, 44 ctrls"	Poland	Needs request	Needs request	Institutional funding of the Jagiellonian University Medical College and Ministry of Science and Higher Education	No	
@@ -29,24 +29,15 @@ KuaiX_2021	10.1186/s12934-021-01589-0	gut	NA	11 PD in 4 time points	China	Needs 
 VIdal-MartinezG_2019	https://doi.org/10.3233%2FJPD-191693	gut	V3-V4	"9 PD, 13 ctrls"	NA	Needs request	Needs request	Many institutions in El Paso	No	
 PietrucciD_2019	10.1016/j.parkreldis.2019.06.003	gut	V3-V4	"80 PD, 72 ctrls"	Italy	https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA510730	Needs request	Public and private no-profit from Italy	No	
 ScheperjansF_2014	https://doi.org/10.1002/mds.26069	gut	V1-V3	"72 PD, 72 ctrls"	Finland	Needs request	Needs request	MJFF among others	Supplementary file 1	
-	https://doi.org/10.1016/j.celrep.2021.108807									
-	10.1016/j.parkreldis.2016.08.019									
-	10.1002/mds.29300									
-	10.1007/s00253-023-12410-w									
-	https://doi.org/10.1038/s41531-022-00351-6									
-	10.3389/fnagi.2022.875261									
-	10.1186/s12974-023-02782-1									
-	10.1038/s41531-021-00254-y									
-	10.1038/s41531-019-0100-x									
-	10.3389/fnins.2021.756951									
-	10.4103/aian.aian_460_23									
-	10.3389/fnagi.2023.1148546									
-	10.3389/fnagi.2022.881872									
-	10.1038/s41531-019-0100-x									
-	10.1038/s41531-021-00244-0									
-	https://doi.org/10.3389%2Ffmicb.2022.875101									
-	10.1128/mSystems.00797-20									
-	10.3390/biom11020144									
-	10.1016/j.parkreldis.2021.12.012									
-	10.1038/s43856-024-00630-8									
-	10.3233/JPD-20223									
+ShiJ_2023	10.1007/s00253-023-12410-w	mucosae of duodenum and sigmoid colon	V4	"19 PD, 22 age-matched ctrls"	China	Needs request	Needs request	National Chinese funds	Methods	
+JoS_2022	https://doi.org/10.1038/s41531-022-00351-6	gut and oral	V3-V4	"91 PD, 85 healthy spouses"	South Korea	https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA742875	Needs request	Korean Healthcare Technology R&D Project	No	Gut shotgun available too
+LubomskiM_2022	10.3389/fnagi.2022.875261	gut	V3-V4	"74 PD, 74 healthy spouses"	Sydney	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA808166	Needs request	Wales and Australian intitutions (non-profit)	Cites https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2022.875261/full#B71	Longitudinal (3 points)
+PalG_2021	10.1038/s41531-021-00254-y	deep nose sinus	V4 + Swift multi-amplicon	"30 PD, 11 healthy spouses, 17 random ctrls"	United States	V4: https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA625976; SwiftMultiAmplicon: https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA625973	Supplementary data 1	Private people’s donations	V4: cites https://pubmed.ncbi.nlm.nih.gov/27454739/	
+WeisS_2019	10.1038/s41531-019-0100-x	gut	V4-V5	"34 PD, 25 age-matched ctrls"	Germany	https://www.ebi.ac.uk/ena/browser/view/PRJEB30615	Supplementary table 1	German Federal Ministry of Education and Research	Methods	See https://pubmed.ncbi.nlm.nih.gov/27591074/ for cohort description
+KennaJE_2021	10.3389/fnins.2021.756951	gut	V3-V4	"87 PD, 47 ctrls"	Australia	https://doi.org/10.6084/m9.figshare.14345513	Needs request	Parkinson’s Western Australia Zrinski Research Grant and the University of Notre Dame Australia	Supplementary table 2	
+PavanS_2023	10.4103/aian.aian_460_23	gut	16S whole	"23 PD, 13 ctrls"	India	Needs request	Needs request	NA	No	
+LubomskiM_2022	10.3389/fnagi.2022.881872	gut	V3-V4	"103 PD, 81 household ctrls"	Sydney	https://www.ebi.ac.uk/ena/browser/view/PRJNA808166	Needs request	Wales and Australian intitutions (non-profit)	Cites https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2022.875261/full#B71	
+GuoX_2022	https://doi.org/10.3389%2Ffmicb.2022.875101	gut	multiple	see supplementary data 2	multiple	see supplementary data 2	"see supplementary data.zip, excel page 2"	Project for Sanqin Academic Innovation Team in Shaanxi Province	no	Fundamental paper! Great amount of data
+NishiwakiH_2020	10.1128/mSystems.00797-20	gut	V3-V4	"26 iRDB, 137 ctrls"	Japan	"https://www.ncbi.nlm.nih.gov/sra/?term=DRA009322, https://www.ncbi.nlm.nih.gov/sra/?term=DRA009229"	Needs request	Many Japanese non-profit	Methods	2 datasets in 1 study + Heinz-Buschart_2017
+VascellariS_2021	10.3390/biom11020144	gut	see VascellariS_2020	"3 PD phenotypes: 19 TD, 23 AR, 14 D, 0 healthy ctrls"	Italy	https://www.ebi.ac.uk/ena/browser/view/PRJEB30401	Needs request	Fondazione di Sardegna	No	
+TakahashiK_2022	10.1016/j.parkreldis.2021.12.012	gut	V3-V4	"223 PD (variable symptoms), 0 ctrl"	Japan	"https://www.ncbi.nlm.nih.gov/sra/?term=DRA009229, https://www.ncbi.nlm.nih.gov/sra/?term=DRA009322"	Needs request	Japanese non-profit health organizations	Methods	

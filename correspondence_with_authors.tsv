@@ -1,5 +1,5 @@
-date	time	study_id	email_recipients	email_Cc	subject	email_body	giacomo_email_used
-10/9/24	5:29:00 PM (EST)	MetcalfeRoachA_2024	bfinlay@msl.ubc.ca	levi.waldron@sph.cuny.edu	Data access for Curated Metagenomic Data 4	"Dear Dr. Finlay,
+Date	studyID(s)	study_doi	From	To	Cc	Subject	Body
+10/9/24	MetcalfeRoachA_2024	https://doi.org/10.1002/mds.29959	giacomoantonello1@gmail.com	bfinlay@msl.ubc.ca	levi.waldron@sph.cuny.edu	Data access for Curated Metagenomic Data 4	"Dear Dr. Finlay,
 
 I am writing on behalf of the Curated Metagenomic Data (cMD) project (Pasolli et al., 2017) led by prof Levi Waldron.
 We are currently working on a new data release focused on Parkinson’s disease in a project funded by the ""Aligning Science Across Parkinson"" (ASAP) network and the Michael J. Fox foundation.
@@ -9,8 +9,8 @@ We appreciated reading your recent contribution in Movement Disorders (https://d
 Ideally, it would be best if you could provide us with the full data set you worked with, both for the sake of completeness, reusability, and reproducibility of data, not to mention the higher visibility your contribution would gain.
 
 I am looking forward to discussing the details together.
-"	Personal
-10/8/24	5:32:00 PM (EST)	QianY_2020	xq10537@rjh.com.cn	levi.waldron@sph.cuny.edu	Data access request for Curated Metagenomic Data 4	"Dear Dr. Xiao,
+"
+10/8/24	QianY_2020	https://doi.org/10.1093/brain/awaa201	giacomoantonello1@gmail.com	xq10537@rjh.com.cn	levi.waldron@sph.cuny.edu	Data access request for Curated Metagenomic Data 4	"Dear Dr. Xiao,
 
 I am writing on behalf of the Curated Metagenomic Data (cMD) project (Pasolli et al., 2017) led by prof Levi Waldron.
 We are currently working on a new data release focused on Parkinson’s disease in a project funded by the ""Aligning Science Across Parkinson"" (ASAP) network and the Michael J. Fox foundation.
@@ -20,8 +20,8 @@ We appreciated reading your contribution in Brain in 2020  (https://doi.org/10.1
 Ideally, it would be best if you could provide us with the full data set you worked with, both for the sake of completeness, reusability, and reproducibility of data, not to mention the higher visibility your contribution would gain.
 
 I am looking forward to discussing the details together.
-"	Personal
-10/8/24	5:53:00 PM (EST)	DuruIC_2024	pedro.pereira@helsinki.fi; petri.auvinen@helsinki.fi	levi.waldron@sph.cuny.edu	Data access request for Curated Metagenomic Data 4	"Dear Dr. Pereira,
+"
+10/8/24	DuruIC_2024	https://doi.org/10.1038/s41598-024-69742-4	giacomoantonello1@gmail.com	pedro.pereira@helsinki.fi; petri.auvinen@helsinki.fi	levi.waldron@sph.cuny.edu	Data access request for Curated Metagenomic Data 4	"Dear Dr. Pereira,
 
 I am writing on behalf of the Curated Metagenomic Data (cMD) project (Pasolli et al., 2017) led by prof Levi Waldron.
 We are currently working on a new data release focused on Parkinson’s disease in a project funded by the ""Aligning Science Across Parkinson"" (ASAP) network and the Michael J. Fox foundation.
@@ -31,86 +31,118 @@ We appreciated reading your contribution in Scientific Reports this year (https:
 Ideally, it would be best if you could provide us with the full data set you worked with, both for the sake of completeness, reusability, and reproducibility of data, not to mention the higher visibility your contribution would gain.
 
 I am looking forward to discussing the details together.
-"	Personal
-11/20/24	2:21:00 PM (EST)	ZhangF_2020 	zyl609@hubu.edu.cn; wpq20110328@qq.com	levi.waldron@sph.cuny.edu	Parkinson curatedMetagenomicData	"Dear professors Zhou and Wang,
+"
+11/20/24	ZhangF_2020 	https://doi.org/10.21203/rs.2.21271/v2	giacomo.antonello@sph.cuny.edu	zyl609@hubu.edu.cn; wpq20110328@qq.com	levi.waldron@sph.cuny.edu	Parkinson curatedMetagenomicData	"Dear professors Zhou and Wang,
 I am working on a project funded by the ""Aligning Science Across Parkinson"" (ASAP) network and the Michael J. Fox foundation to build a harmonized resource of all publicly available metagenomic data available for the study of the gut microbiome in Parkinson's disease. We are following the approach of the curatedMetagenomicData (cMD) initiative (Pasolli et al., 2017) to lower barriers to reuse and integrated analysis by the entire Parkinson's Disease research community to better understand the underlying causes of the disease
  
 To succeed, we need access to raw sequencing data and individual participant metadata, including the datasets you have generate in https://www.researchsquare.com/article/rs-11866/v2work and https://doi.org/10.3389/fmicb.2021.728479. We will uniformly process raw data through the latest version of bioBakery (https://huttenhower.sph.harvard.edu/biobakery_workflows/), and standardize participant data across all studies. The minimum data we need in order to include your study is the raw reads and Parkinson's disease/health status, but age and sex are important as well. Ideally, it would be best to share the full data set you worked with, for the sake of completeness, reusability, and reproducibility of results.
  
 I am confident you will understand the importance of this harmonization effort and will be part of it as a data contributor. I'm looking forward to discussing details, including addressing any limitations or concerns you have about data sharing.
-"	Institutional
-11/20/24	2:21:00 PM (EST)	ZhangF_2020; MaoL_2021 	zyl609@hubu.edu.cn; wpq20110328@qq.com	levi.waldron@sph.cuny.edu	Parkinson curatedMetagenomicData	"Dear professors Zhou and Wang,
+"
+11/20/24	ZhangF_2020; MaoL_2021 	https://doi.org/10.21203/rs.2.21271/v2; https://doi.org/10.3389/fmicb.2021.728479	giacomo.antonello@sph.cuny.edu	zyl609@hubu.edu.cn; wpq20110328@qq.com	levi.waldron@sph.cuny.edu	Parkinson curatedMetagenomicData	"Dear professors Zhou and Wang,
 I am working on a project funded by the ""Aligning Science Across Parkinson"" (ASAP) network and the Michael J. Fox foundation to build a harmonized resource of all publicly available metagenomic data available for the study of the gut microbiome in Parkinson's disease. We are following the approach of the curatedMetagenomicData (cMD) initiative (Pasolli et al., 2017) to lower barriers to reuse and integrated analysis by the entire Parkinson's Disease research community to better understand the underlying causes of the disease
  
 To succeed, we need access to raw sequencing data and individual participant metadata, including the datasets you have generate in https://www.researchsquare.com/article/rs-11866/v2work and https://doi.org/10.3389/fmicb.2021.728479. We will uniformly process raw data through the latest version of bioBakery (https://huttenhower.sph.harvard.edu/biobakery_workflows/), and standardize participant data across all studies. The minimum data we need in order to include your study is the raw reads and Parkinson's disease/health status, but age and sex are important as well. Ideally, it would be best to share the full data set you worked with, for the sake of completeness, reusability, and reproducibility of results.
  
 I am confident you will understand the importance of this harmonization effort and will be part of it as a data contributor. I'm looking forward to discussing details, including addressing any limitations or concerns you have about data sharing.
-"	Institutional
-11/20/24	2:32:00 PM (EST)	NishiwakiH_2024	hirasan@met.nagoya-u.ac.jp; ohnok@med.nagoya-u.ac.jp	levi.waldron@sph.cuny.edu	Contribute to the parkinsonsCuratedMetagenomicsData	"Dear all,
+"
+11/20/24	NishiwakiH_2024	https://doi.org/10.1038/s41531-024-00724-z	giacomo.antonello@sph.cuny.edu	hirasan@met.nagoya-u.ac.jp; ohnok@med.nagoya-u.ac.jp	levi.waldron@sph.cuny.edu	Contribute to the parkinsonsCuratedMetagenomicsData	"Dear all,
 I am working on a project funded by the ""Aligning Science Across Parkinson"" (ASAP) network and the Michael J. Fox foundation to build a harmonized resource of all publicly available metagenomic data available for the study of the gut microbiome in Parkinson's disease. We are following the approach of the curatedMetagenomicData (cMD) initiative (Pasolli et al., 2017) to lower barriers to reuse and integrated analysis by the entire Parkinson's Disease research community to better understand the underlying causes of the disease
  
 To succeed, we need access to raw sequencing data and individual participant metadata, including the datasets you have generated in https://www.nature.com/articles/s41531-024-00724-z. We will uniformly process raw data through the latest version of bioBakery (https://huttenhower.sph.harvard.edu/biobakery_workflows/), and standardize participant data across all studies. The minimum data we need in order to include your study is the raw reads and Parkinson's disease/health status, but age and sex are important as well. Ideally, it would be best to share the full data set you worked with, for the sake of completeness, reusability, and reproducibility of results.
  
 I am confident you will understand the importance of this harmonization effort and will be part of it as a data contributor. I'm looking forward to discussing details, including addressing any limitations or concerns you have about data sharing.
-"	Institutional
-11/20/24	2:45:00 PM (EST)	BedarfJR_2017	bork@EMBL-Heidelberg.de; wuellner@uni-bonn.de	levi.waldron@sph.cuny.edu	Contribute to the parkinsonsCuratedMetagenomicsData	"Dear professors Bork and Wüllner,
+"
+11/20/24	BedarfJR_2017	https://doi.org/10.1186/s13073-017-0428-y	giacomo.antonello@sph.cuny.edu	bork@EMBL-Heidelberg.de; wuellner@uni-bonn.de	levi.waldron@sph.cuny.edu	Contribute to the parkinsonsCuratedMetagenomicsData	"Dear professors Bork and Wüllner,
 I am working on a project funded by the ""Aligning Science Across Parkinson"" (ASAP) network and the Michael J. Fox foundation to build a harmonized resource of all publicly available metagenomic data available for the study of the gut microbiome in Parkinson's disease. We are following the approach of the curatedMetagenomicData (cMD) initiative (Pasolli et al., 2017) to lower barriers to reuse and integrated analysis by the entire Parkinson's Disease research community to better understand the underlying causes of the disease
  
 To succeed, we need access to raw sequencing data and individual participant metadata, including the datasets you have generated in https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-017-0428-y. We will uniformly process raw data through the latest version of bioBakery (https://huttenhower.sph.harvard.edu/biobakery_workflows/), and standardize participant data across all studies. The minimum data we need in order to include your study is the raw reads and Parkinson's disease/health status, but age and sex are important as well. Ideally, it would be best to share the full data set you worked with, for the sake of completeness, reusability, and reproducibility of results.
  
 I am confident you will understand the importance of this harmonization effort and will be part of it as a data contributor. I'm looking forward to discussing details, including addressing any limitations or concerns you have about data sharing.
-"	Institutional
-11/27/24	12:31:00 PM (EST)	JoS_2022	sjchung@amc.seoul.kr	levi.waldron@sph.cuny.edu	Contribute to the parkinsonsCuratedMetagenomicsData	"Dear Dr. Kung,
+"
+11/27/24	JoS_2022	https://doi.org/10.1038/s41531-022-00351-6	giacomo.antonello@sph.cuny.edu	sjchung@amc.seoul.kr	levi.waldron@sph.cuny.edu	Contribute to the parkinsonsCuratedMetagenomicsData	"Dear Dr. Kung,
 I am working on a project funded by the ""Aligning Science Across Parkinson"" (ASAP) network and the Michael J. Fox foundation to build a harmonized resource of all publicly available metagenomic data available for the study of the gut microbiome in Parkinson's disease. We are following the approach of the curatedMetagenomicData (cMD) initiative (Pasolli et al., 2017) to lower barriers to reuse and integrated analysis by the entire Parkinson's Disease research community to better understand the underlying causes of the disease
  
 To succeed, we need access to raw sequencing data and individual participant metadata, including the datasets you have generated in https://doi.org/10.1038/s41531-022-00351-6. We will uniformly process raw data through the latest version of bioBakery (https://huttenhower.sph.harvard.edu/biobakery_workflows/), and standardize participant data across all studies. The minimum data we need in order to include your study is the raw reads and Parkinson's disease/health status, but age and sex are important as well. Ideally, it would be best to share the full data set you worked with, for the sake of completeness, reusability, and reproducibility of results.
  
 I am confident you will understand the importance of this harmonization effort and will be part of it as a data contributor. I'm looking forward to discussing details, including addressing any limitations or concerns you have about data sharing.
-"	Institutional
-11/27/24	12:54:00 PM (EST)	ZhangM_2023	jgzwhg@njmu.edu.cn <jgzwhg@njmu.edu.cn>; 13776709661@163.com <13776709661@163.com>; hayyyxzh@njmu.edu.cn <hayyyxzh@njmu.edu.cn>	levi.waldron@sph.cuny.edu	Contribute to the parkinsonsCuratedMetagenomicsData initiative	"Dear Dr. Wang, Feng and Yang,
+"
+11/27/24	ZhangM_2023	https://doi.org/10.3389/fnagi.2023.1148546	giacomo.antonello@sph.cuny.edu	jgzwhg@njmu.edu.cn; 13776709661@163.com; hayyyxzh@njmu.edu.cn	levi.waldron@sph.cuny.edu	Contribute to the parkinsonsCuratedMetagenomicsData initiative	"Dear Dr. Wang, Feng and Yang,
 I am working on a project funded by the ""Aligning Science Across Parkinson"" (ASAP) network and the Michael J. Fox foundation to build a harmonized resource of all publicly available metagenomic data available for the study of the gut microbiome in Parkinson's disease. We are following the approach of the curatedMetagenomicData (cMD) initiative (Pasolli et al., 2017) to lower barriers to reuse and integrated analysis by the entire Parkinson's Disease research community to better understand the underlying causes of the disease.
  
 To succeed, we need access to raw sequencing data and individual participant metadata, including the datasets you have generated in https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2023.1148546/full. We will uniformly process raw data through the latest version of bioBakery (https://huttenhower.sph.harvard.edu/biobakery_workflows/), and standardize participant data across all studies. The minimum data we need in order to include your study is the raw reads and Parkinson's disease/health status, but age and sex are important as well. Ideally, it would be best to share the full data set you worked with, for the sake of completeness, reusability, and reproducibility of results.
  
 I am confident you will understand the importance of this harmonization effort and will be part of it as a data contributor. I'm looking forward to discussing details, including addressing any limitations or concerns you have about data sharing.
-"	Institutional
-11/27/24	1:08:00 PM (EST)	QianY_2024	"yangxiaodong2011@yeah.net, xq10537@rjh.com.cn"	levi.waldron@sph.cuny.edu	Contribute to the parkinsonsCuratedMetagenomicsData initiative	"Dear Dr. Yang and Xiao,
+"
+11/27/24	QianY_2024	https://dx.doi.org/10.2139/ssrn.4871254	giacomo.antonello@sph.cuny.edu	"yangxiaodong2011@yeah.net, xq10537@rjh.com.cn"	levi.waldron@sph.cuny.edu	Contribute to the parkinsonsCuratedMetagenomicsData initiative	"Dear Dr. Yang and Xiao,
 I am working on a project funded by the ""Aligning Science Across Parkinson"" (ASAP) network and the Michael J. Fox foundation to build a harmonized resource of all publicly available metagenomic data available for the study of the gut microbiome in Parkinson's disease. We are following the approach of the curatedMetagenomicData (cMD) initiative (Pasolli et al., 2017) to lower barriers to reuse and integrated analysis by the entire Parkinson's Disease research community to better understand the underlying causes of the disease.
  
 To succeed, we need access to raw sequencing data and individual participant metadata, including the datasets that have generated in https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4871254. We will uniformly process raw data through the latest version of bioBakery (https://huttenhower.sph.harvard.edu/biobakery_workflows/), and standardize participant data across all studies. The minimum data we need in order to include your study is the raw reads and Parkinson's disease/health status, but age and sex are important as well. Ideally, it would be best to share the full data set you worked with, for the sake of completeness, reusability, and reproducibility of results.
  
 I am confident you will understand the importance of this harmonization effort and will be part of it as a data contributor. I'm looking forward to discussing details, including addressing any limitations or concerns you have about data sharing.
-"	Institutional
-11/27/24	1:23:00 PM (EST)	BolliriC_2022	e.cereda@smatteo.pv.it	levi.waldron@sph.cuny.edu	Contribute to the parkinsonsCuratedMetagenomicsData initiative	"Dear Dr. Ceredda,
+"
+11/27/24	BolliriC_2022	https://doi.org/10.1002/ana.26454	giacomo.antonello@sph.cuny.edu	e.cereda@smatteo.pv.it	levi.waldron@sph.cuny.edu	Contribute to the parkinsonsCuratedMetagenomicsData initiative	"Dear Dr. Ceredda,
 I am working on a project funded by the ""Aligning Science Across Parkinson"" (ASAP) network and the Michael J. Fox foundation to build a harmonized resource of all publicly available metagenomic data available for the study of the gut microbiome in Parkinson's disease. We are following the approach of the curatedMetagenomicData (cMD) initiative (Pasolli et al., 2017) to lower barriers to reuse and integrated analysis by the entire Parkinson's Disease research community to better understand the underlying causes of the disease.
  
 To succeed, we need access to raw sequencing data and individual participant metadata, including the datasets you have generated https://doi.org/10.1002/ana.26454. We will uniformly process raw data through the latest version of bioBakery (https://huttenhower.sph.harvard.edu/biobakery_workflows/), and standardize participant data across all studies. The minimum data we need in order to include your study is the raw reads and Parkinson's disease/health status, but age and sex are important as well. Ideally, it would be best to share the full data set you worked with, for the sake of completeness, reusability, and reproducibility of results.
  
 I am confident you will understand the importance of this harmonization effort and will be part of it as a data contributor. I'm looking forward to discussing details, including addressing any limitations or concerns you have about data sharing.
-"	Institutional
-12/07/2024	9:58:00 AM (EST)	ChenS_2022	"kuoch@ntu.edu.tw, q93421022@ntu.edu.tw"	levi.waldron@sph.cuny.edu	Contribute to the parkinsonsCuratedMetagenomicsData initiative	"Dear Dr. Kuo and Dr. Lin,
+"
+12/07/2024	ChenS_2022	https://doi.org/10.1212/WNL.0000000000013225	giacomo.antonello@sph.cuny.edu	"kuoch@ntu.edu.tw, q93421022@ntu.edu.tw"	levi.waldron@sph.cuny.edu	Contribute to the parkinsonsCuratedMetagenomicsData initiative	"Dear Dr. Kuo and Dr. Lin,
 I am working on a project funded by the ""Aligning Science Across Parkinson"" (ASAP) network and the Michael J. Fox foundation to build a harmonized resource of all publicly available metagenomic data available for the study of the gut microbiome in Parkinson's disease. We are following the approach of the curatedMetagenomicData (cMD) initiative (Pasolli et al., 2017) to lower barriers to reuse and integrated analysis by the entire Parkinson's Disease research community to better understand the underlying causes of the disease.
  
 To succeed, we need access to raw sequencing data and individual participant metadata, including the datasets you have generated https://doi.org/10.1212/WNL.0000000000013225. We will uniformly process raw data through the latest version of bioBakery (https://huttenhower.sph.harvard.edu/biobakery_workflows/), and standardize participant data across all studies. The minimum data we need in order to include your study is the raw reads and Parkinson's disease/health status, but age and sex are important as well. Ideally, it would be best to share the full data set you worked with, for the sake of completeness, reusability, and reproducibility of results.
  
 I am confident you will understand the importance of this harmonization effort and will be part of it as a data contributor. I'm looking forward to discussing details, including addressing any limitations or concerns you have about data sharing.
- "	Institutional
-12/07/2024	10:06:00 AM (EST)	LiZ_2021	"wpoon@surgery.cuhk.edu.hk, gzucmp@163.com, luoxiaod@126.com"	levi.waldron@sph.cuny.edu	Contribute to the parkinsonsCuratedMetagenomicsData initiative	"Dear Dr. Poon and Dr. Luo,
+ "
+12/07/2024	LiZ_2021	https://doi.org/10.3389/fimmu.2021.632482	giacomo.antonello@sph.cuny.edu	"wpoon@surgery.cuhk.edu.hk, gzucmp@163.com, luoxiaod@126.com"	levi.waldron@sph.cuny.edu	Contribute to the parkinsonsCuratedMetagenomicsData initiative	"Dear Dr. Poon and Dr. Luo,
 I am working on a project funded by the ""Aligning Science Across Parkinson"" (ASAP) network and the Michael J. Fox foundation to build a harmonized resource of all publicly available metagenomic data available for the study of the gut microbiome in Parkinson's disease. We are following the approach of the curatedMetagenomicData (cMD) initiative (Pasolli et al., 2017) to lower barriers to reuse and integrated analysis by the entire Parkinson's Disease research community to better understand the underlying causes of the disease.
  
 To succeed, we need access to raw sequencing data and individual participant metadata, including the datasets you have generated in https://doi.org/10.3389/fimmu.2021.632482. We will uniformly process raw data through the latest version of bioBakery (https://huttenhower.sph.harvard.edu/biobakery_workflows/), and standardize participant data across all studies. The minimum data we need in order to include your study is the raw reads and Parkinson's disease/health status, but age and sex are important as well. Ideally, it would be best to share the full data set you worked with, for the sake of completeness, reusability, and reproducibility of results.
  
 I am confident you will understand the importance of this harmonization effort and will be part of it as a data contributor. I'm looking forward to discussing details, including addressing any limitations or concerns you have about data sharing.
- "	
-12/07/2024	11:05:00 AM (EST)	LeeEJ_2024	elee@ajou.ac.kr	levi.waldron@sph.cuny.edu	Contribute to the parkinsonsCuratedMetagenomicsData initiative	"Dear Dr. Lee,
+ "
+12/07/2024	LeeEJ_2024	https://doi.org/10.21203/rs.3.rs-3742244/v1	giacomo.antonello@sph.cuny.edu	elee@ajou.ac.kr	levi.waldron@sph.cuny.edu	Contribute to the parkinsonsCuratedMetagenomicsData initiative	"Dear Dr. Lee,
 I am working on a project funded by the ""Aligning Science Across Parkinson"" (ASAP) network and the Michael J. Fox foundation to build a harmonized resource of all publicly available metagenomic data available for the study of the gut microbiome in Parkinson's disease. We are following the approach of the curatedMetagenomicData (cMD) initiative (Pasolli et al., 2017) to lower barriers to reuse and integrated analysis by the entire Parkinson's Disease research community to better understand the underlying causes of the disease.
  
 To succeed, we need access to raw sequencing data and individual participant metadata, including the datasets you have generated in https://doi.org/10.21203/rs.3.rs-3742244/v1. We will uniformly process raw data through the latest version of bioBakery (https://huttenhower.sph.harvard.edu/biobakery_workflows/), and standardize participant data across all studies. The minimum data we need in order to include your study is the raw reads and Parkinson's disease/health status, but age and sex are important as well. Ideally, it would be best to share the full data set you worked with, for the sake of completeness, reusability, and reproducibility of results.
  
-I am confident you will understand the importance of this harmonization effort and will be part of it as a data contributor. I'm looking forward to discussing details, including addressing any limitations or concerns you have about data sharing."	Institutional
-12/07/2024	11:32:00 AM (EST)	NozumND_2023	n.nuzum@deakin.edu.au	levi.waldron@sph.cuny.edu	Contribute to the parkinsonsCuratedMetagenomicsData initiative	"Dear Dr. Nozum,
+I am confident you will understand the importance of this harmonization effort and will be part of it as a data contributor. I'm looking forward to discussing details, including addressing any limitations or concerns you have about data sharing."
+12/07/2024	NozumND_2023	https://doi.org/10.1016/j.neuropharm.2023.109566	giacomo.antonello@sph.cuny.edu	n.nuzum@deakin.edu.au	levi.waldron@sph.cuny.edu	Contribute to the parkinsonsCuratedMetagenomicsData initiative	"Dear Dr. Nozum,
 I am working on a project funded by the ""Aligning Science Across Parkinson"" (ASAP) network and the Michael J. Fox foundation to build a harmonized resource of all publicly available metagenomic data available for the study of the gut microbiome in Parkinson's disease. We are following the approach of the curatedMetagenomicData (cMD) initiative (Pasolli et al., 2017) to lower barriers to reuse and integrated analysis by the entire Parkinson's Disease research community to better understand the underlying causes of the disease.
  
 To succeed, we need access to raw sequencing data and individual participant metadata, including the datasets you have generated in https://doi.org/10.1016/j.neuropharm.2023.109566. We will uniformly process raw data through the latest version of bioBakery (https://huttenhower.sph.harvard.edu/biobakery_workflows/), and standardize participant data across all studies. The minimum data we need in order to include your study is the raw reads and Parkinson's disease/health status, but age and sex are important as well. Ideally, it would be best to share the full data set you worked with, for the sake of completeness, reusability, and reproducibility of results.
  
-I am confident you will understand the importance of this harmonization effort and will be part of it as a data contributor. I'm looking forward to discussing details, including addressing any limitations or concerns you have about data sharing."	Institutional
+I am confident you will understand the importance of this harmonization effort and will be part of it as a data contributor. I'm looking forward to discussing details, including addressing any limitations or concerns you have about data sharing."
+12/09/2024	NishiwakiH_2024	https://doi.org/10.1038/s41531-024-00724-z	nishiwakihiroshi@gmail.com	giacomo.antonello@sph.cuny.edu	NA	Contribute to the parkinsonsCuratedMetagenomicsData initiative	"Dear Dr.  Giacomo Antonello,
+I'm sorry for the delay in sending this email.  
+I've attached a metadata file.
+If you have any questions, please let me know.
+Thank you.
+Hiroshi Nishiwaki"
+12/17/2024	BolliriC_2022	https://doi.org/10.1002/ana.26454	e.cereda@smatteo.pv.it	giacomo.antonello@sph.cuny.edu	levi.waldron@sph.cuny.edu	Contribute to the parkinsonsCuratedMetagenomicsData initiative	"ciao
+possiamo sentirci telefonicamente?
+grazie
+Emanuele
+<Phone number not included for privacy>"
+12/178/2024	MetcalfeRoachA_2024	https://doi.org/10.1002/mds.29959	giacomo.antonello@sph.cuny.edu	bfinlay@msl.ubc.ca	levi.waldron@sph.cuny.edu	Contribute to the parkinsonsCuratedMetagenomicsData initiative	"Dear Dr. Finlay,
+I am working on a project funded by the ""Aligning Science Across Parkinson"" (ASAP) network and the Michael J. Fox foundation to build a harmonized resource of all publicly available metagenomic data available for the study of the gut microbiome in Parkinson's disease. We are following the approach of the curatedMetagenomicData (cMD) initiative (Pasolli et al., 2017) to lower barriers to reuse and integrated analysis by the entire Parkinson's Disease research community to better understand the underlying causes of the disease.
+ 
+To succeed, we need access to raw sequencing data and individual participant metadata, including the datasets you have generated in https://doi.org/10.1002/mds.29959. We will uniformly process raw data through the latest version of bioBakery (https://huttenhower.sph.harvard.edu/biobakery_workflows/), and standardize participant data across all studies. The minimum data we need in order to include your study is the raw reads and Parkinson's disease/health status, but age and sex are important as well. Ideally, it would be best to share the full data set you worked with, for the sake of completeness, reusability, and reproducibility of results.
+ 
+I am confident you will understand the importance of this harmonization effort and will be part of it as a data contributor. I'm looking forward to discussing details, including addressing any limitations or concerns you have about data sharing.
+ "
+12/178/2025	QianY_2020	https://doi.org/10.1093/brain/awaa201	giacomo.antonello@sph.cuny.edu	xq10537@rjh.com.cn	levi.waldron@sph.cuny.edu	Contribute to the parkinsonsCuratedMetagenomicsData initiative	"Dear Dr. Xiao,
+I am working on a project funded by the ""Aligning Science Across Parkinson"" (ASAP) network and the Michael J. Fox foundation to build a harmonized resource of all publicly available metagenomic data available for the study of the gut microbiome in Parkinson's disease. We are following the approach of the curatedMetagenomicData (cMD) initiative (Pasolli et al., 2017) to lower barriers to reuse and integrated analysis by the entire Parkinson's Disease research community to better understand the underlying causes of the disease.
+ 
+To succeed, we need access to raw sequencing data and individual participant metadata, including the datasets you have generated in https://doi.org/10.1093/brain/awaa201. We will uniformly process raw data through the latest version of bioBakery (https://huttenhower.sph.harvard.edu/biobakery_workflows/), and standardize participant data across all studies. The minimum data we need in order to include your study is the raw reads and Parkinson's disease/health status, but age and sex are important as well. Ideally, it would be best to share the full data set you worked with, for the sake of completeness, reusability, and reproducibility of results.
+ 
+I am confident you will understand the importance of this harmonization effort and will be part of it as a data contributor. I'm looking forward to discussing details, including addressing any limitations or concerns you have about data sharing.
+"
+12/178/2026	DuruIC_2024	https://doi.org/10.1038/s41598-024-69742-4	giacomo.antonello@sph.cuny.edu	pedro.pereira@helsinki.fi ; petri.auvinen@helsinki.fi	levi.waldron@sph.cuny.edu	Contribute to the parkinsonsCuratedMetagenomicsData initiative	"Dear Dr. Pereira and Auvinen,
+I am working on a project funded by the ""Aligning Science Across Parkinson"" (ASAP) network and the Michael J. Fox foundation to build a harmonized resource of all publicly available metagenomic data available for the study of the gut microbiome in Parkinson's disease. We are following the approach of the curatedMetagenomicData (cMD) initiative (Pasolli et al., 2017) to lower barriers to reuse and integrated analysis by the entire Parkinson's Disease research community to better understand the underlying causes of the disease.
+ 
+To succeed, we need access to raw sequencing data and individual participant metadata, including the datasets you have generated in https://doi.org/10.1038/s41598-024-69742-4. We will uniformly process raw data through the latest version of bioBakery (https://huttenhower.sph.harvard.edu/biobakery_workflows/), and standardize participant data across all studies. The minimum data we need in order to include your study is the raw reads and Parkinson's disease/health status, but age and sex are important as well. Ideally, it would be best to share the full data set you worked with, for the sake of completeness, reusability, and reproducibility of results.
+ 
+I am confident you will understand the importance of this harmonization effort and will be part of it as a data contributor. I'm looking forward to discussing details, including addressing any limitations or concerns you have about data sharing.
+"

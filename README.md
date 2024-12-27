@@ -17,22 +17,25 @@ And the steps should be:
 
   1. Perform the query on several databases
     
-    |Database   |Implemented  |Function           |
-    | --------- | ---------   | ---------------   |
-    |PubMed     |Yes          |lookup_on_PubMed.R |
-    |Scopus     |No           |None               |
-    |Google Scholar|No        |None               |
-    |*Rxiv      |No           |None               |
+    | Database          | Implemented | Function            |
+    | ----------------- | ----------- | ------------------- |
+    | PubMed            | Yes         | lookup_on_PubMed.R  |
+    | Scopus            | No          | None                |
+    | Google Scholar    | No          | None                |
+    | MedRxiv/BioRxiv   | No          | None                |
+
     
   2. Search metadata using `CrossRef` based on available unique IDs
     
-    - PMID
-    - DOI
+    * PMID
+    
+    * DOI
     
   3. Search NCBI for Associated datasets
     
-    - SRA
-    - BioProject
+    * SRA
+    
+    * BioProject
   
   4. Generate a `curatedMetagenomicData`-like study/dataset identifier
   using the utility function SearchPapersWithR/build_cMD_ID.R

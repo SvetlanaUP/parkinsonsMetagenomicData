@@ -29,7 +29,7 @@ Datasets more likely to be obtained may also be:
   exploits data from Nurses study in Boston, data sharing is harder.
   - StagmanK_2024 (deposited in MJFF, I requested full access)
 
-### week 1
+### Week 1
 
 Since we are having trouble with responses by authors, we decided to expand 
 our search towards other -omic data, which would still make a valuable addition
@@ -42,7 +42,33 @@ it is added to that file. 16S studies will be annotated with the same logic
 in a different file, named `parkinson_16S_datasets.tsv`. My week's efforts will
 mostly be around curating these datasets.
 
-# Metadata request attempts
+## November 2024
+
+### Week 4
+
+A new email version has been developed:
+
+```
+Dear Dr. **Last Name**,
+I am working on a project funded by the "Aligning Science Across Parkinson" (ASAP) network and the Michael J. Fox foundation to build a harmonized resource of all publicly available metagenomic data available for the study of the gut microbiome in Parkinson's disease. We are following the approach of the curatedMetagenomicData (cMD) initiative (Pasolli et al., 2017) to lower barriers to reuse and integrated analysis by the entire Parkinson's Disease research community to better understand the underlying causes of the disease.
+ 
+To succeed, we need access to raw sequencing data and individual participant metadata, including the datasets you have generated **https://doi.org/link**. We will uniformly process raw data through the latest version of bioBakery (https://huttenhower.sph.harvard.edu/biobakery_workflows/), and standardize participant data across all studies. The minimum data we need in order to include your study is the raw reads and Parkinson's disease/health status, but age and sex are important as well. Ideally, it would be best to share the full data set you worked with, for the sake of completeness, reusability, and reproducibility of results.
+ 
+I am confident you will understand the importance of this harmonization effort and will be part of it as a data contributor. I'm looking forward to discussing details, including addressing any limitations or concerns you have about data sharing.
+ 
+Giacomo Antonello, PhD 
+Microbiome Analytics Core (MAC), ASAP Network
+MAC GitHub: https://github.com/ASAP-MAC
+Book a meeting with someone at MAC: https://outlook.office365.com/book/ASAPMAC@CUNY907.onmicrosoft.com/
+```
+
+## October 2024
+
+### Week 4
+
+Finished First shotgun datasets list, containing 15 datasets.
+
+### Week 2
 
 So far, the request of metadata has been piloted on only 3 research groups, with no success. I sent the emails from my private email account, Cc-ing Levi, to the corresponding author, and when not the same, to the last author too. This was the email template, which I adapted to each specific case:
 
@@ -60,24 +86,6 @@ I am looking forward to discussing the details together.
 
 Best regards
 Giacomo Antonello, PhD
-```
-
-## Nov 2024, week 4
-
-A new email version has been developed:
-
-```
-Dear Dr. **Last Name**,
-I am working on a project funded by the "Aligning Science Across Parkinson" (ASAP) network and the Michael J. Fox foundation to build a harmonized resource of all publicly available metagenomic data available for the study of the gut microbiome in Parkinson's disease. We are following the approach of the curatedMetagenomicData (cMD) initiative (Pasolli et al., 2017) to lower barriers to reuse and integrated analysis by the entire Parkinson's Disease research community to better understand the underlying causes of the disease.
- 
-To succeed, we need access to raw sequencing data and individual participant metadata, including the datasets you have generated **https://doi.org/link**. We will uniformly process raw data through the latest version of bioBakery (https://huttenhower.sph.harvard.edu/biobakery_workflows/), and standardize participant data across all studies. The minimum data we need in order to include your study is the raw reads and Parkinson's disease/health status, but age and sex are important as well. Ideally, it would be best to share the full data set you worked with, for the sake of completeness, reusability, and reproducibility of results.
- 
-I am confident you will understand the importance of this harmonization effort and will be part of it as a data contributor. I'm looking forward to discussing details, including addressing any limitations or concerns you have about data sharing.
- 
-Giacomo Antonello, PhD 
-Microbiome Analytics Core (MAC), ASAP Network
-MAC GitHub: https://github.com/ASAP-MAC
-Book a meeting with someone at MAC: https://outlook.office365.com/book/ASAPMAC@CUNY907.onmicrosoft.com/
 ```
 
 Metadata retrieval has been attempted using a handy manual search tool called

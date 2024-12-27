@@ -1,5 +1,46 @@
 # parkinsonsMetagenomicData
+
 This repository keeps track of the datasets found in the literature and the efforts to obtain them. So far, I found the following datasets that could be of interests for the ASAP microbiome analytics core. The strategy to find them so far was to review the results of the following [Google scholar search](https://scholar.google.com/scholar?hl=it&as_sdt=0,33&q=“metagenomic*”+AND+"parkinson*"). In the future, a double check by other researchers on different paper browsers (e.g. `Scopus`, `WebOfScience`) would strengthen the systematicity.
+
+## December 2024
+
+### Week 3
+
+The work year has ended with 2 contacts active to obtain metadata by
+`NishiwakiH_2024` and `MetcalfeRoachA_2024`. 
+
+So far, we have downloadable Fastq files and retrievable case-control data for 
+the following  datasets:
+  - BedarfJR_2017 (Alice Bassetto shared it)
+  - MaoL_2021 (Alice Bassetto shared it)
+  - JoS_2022 (case-control in biosample titles in SRA)
+  - WallenZD_2022 (Haydeh’s public dataset)
+  - BoktorJC_2023 (2 datasets, metadata in Supplementaries)
+  - ZhangM_2023 (all PD, different sex)
+  - LeeEJ_2024 (all PD, different sub-types)
+  - NishiwakiH_2024 (the only ones to share metadata after emailing them)
+  - MetcalfeRoachA_2024 (emailing in progress)
+
+Datasets more likely to be obtained may also be:
+
+  - BeckerA_2022 (available in Chinese database, I am requesting access)
+  - NieS_2023 (available in Chinese database, I am requesting access)
+  - PalaciosN_2023 (data in dbGAP, Curtis HUttenhower is last author), but this
+  exploits data from Nurses study in Boston, data sharing is harder.
+  - StagmanK_2024 (deposited in MJFF, I requested full access)
+
+### week 1
+
+Since we are having trouble with responses by authors, we decided to expand 
+our search towards other -omic data, which would still make a valuable addition
+to the field of PD. Our attention will focus first on **16S** amplicon sequencing.
+For this search, we created a search on `BugSigDB` for studies on PD in *H. sapiens*
+with **Condition: parkinson's disease | parkinsonism | parkinson | parkinson disease**.
+
+Whenever a shotgun study is found that is not yet in `parkinson_shotgun_datasets.tsv`, 
+it is added to that file. 16S studies will be annotated with the same logic 
+in a different file, named `parkinson_16S_datasets.tsv`. My week's efforts will
+mostly be around curating these datasets.
 
 # Metadata request attempts
 
@@ -43,17 +84,3 @@ Metadata retrieval has been attempted using a handy manual search tool called
 [SRA-explorer](https://sra-explorer.info/#), which provides a nice interface
 to download metadata and create wget downloading commands for FASTQ files.
 
-# Dec 2024, week 1
-
-## Expanded search for datasets
-
-Since we are having trouble with responses by authors, we decided to expand 
-our search towards other -omic data, which would still make a valuable addition
-to the field of PD. Our attention will focus first on **16S** amplicon sequencing.
-For this search, we created a search on `BugSigDB` for studies on PD in *H. sapiens*
-with **Condition: parkinson's disease | parkinsonism | parkinson | parkinson disease**.
-
-Whenever a shotgun study is found that is not yet in `parkinson_shotgun_datasets.tsv`, 
-it will be added to that file. 16S studies will be annotated with the same logic 
-in a different file, named `parkinson_16S_datasets.tsv`. My week's efforts will
-mostly be around curating these datasets.

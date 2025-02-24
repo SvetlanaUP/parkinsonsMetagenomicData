@@ -2,6 +2,10 @@
 
 This repository keeps track of the datasets found in the literature and the efforts to obtain them. So far, I found the following datasets that could be of interests for the ASAP microbiome analytics core. The strategy to find them so far was to review the results of the following [Google scholar search](https://scholar.google.com/scholar?hl=it&as_sdt=0,33&q=“metagenomic*”+AND+"parkinson*"). In the future, a double check by other researchers on different paper browsers (e.g. `Scopus`, `WebOfScience`) would strengthen the systematicity.
 
+### February 2025
+
+With the help of Svetlana and the Outreachie initiative, we are adding 8 new shotgun datasets to BugSigDB.
+
 ## December 2024
 
 ### Week 3

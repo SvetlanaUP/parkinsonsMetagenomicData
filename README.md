@@ -7,7 +7,7 @@ This repository keeps track of the datasets found in the literature and the effo
 With the help of Svetlana and the Outreachy initiative, we are adding 8 new shotgun datasets to BugSigDB.
 
 | Item | Study | GitHub issue | BugSigDB Study | Status |
-|---|---|---|---|
+|---|---|---|---|---|
 | 1 | LiZ_2021 | https://github.com/waldronlab/BugSigDBcuration/issues/600 | https://bugsigdb.org/34276644 | curated and reviewed |
 | 2 | NieS_2023 | https://github.com/waldronlab/BugSigDBcuration/issues/601 | https://bugsigdb.org/36995383 | curated and reviewed |
 | 3 | PalaciosN_2023 | https://github.com/waldronlab/BugSigDBcuration/issues/602 | https://bugsigdb.org/37314861 | curated and reviewed |

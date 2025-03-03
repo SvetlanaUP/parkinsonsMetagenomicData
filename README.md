@@ -11,11 +11,11 @@ With the help of Svetlana and the Outreachy initiative, we are adding 8 new shot
 | 1 | LiZ_2021 | https://github.com/waldronlab/BugSigDBcuration/issues/600 | https://bugsigdb.org/34276644 | curated and reviewed |
 | 2 | NieS_2023 | https://github.com/waldronlab/BugSigDBcuration/issues/601 | https://bugsigdb.org/36995383 | curated and reviewed |
 | 3 | PalaciosN_2023 | https://github.com/waldronlab/BugSigDBcuration/issues/602 | https://bugsigdb.org/37314861 | curated and reviewed |
-| 4 | DuruIC_2024 | https://github.com/waldronlab/BugSigDBcuration/issues/603 | https://bugsigdb.org/39143178 | under curation |
-| 5 | Metcalfe-RoachA_2024 | https://github.com/waldronlab/BugSigDBcuration/issues/604 | https://bugsigdb.org/39192744 | curated and under review |
+| 4 | DuruIC_2024 | https://github.com/waldronlab/BugSigDBcuration/issues/603 | https://bugsigdb.org/39143178 | curated and reviewed |
+| 5 | Metcalfe-RoachA_2024 | https://github.com/waldronlab/BugSigDBcuration/issues/604 | https://bugsigdb.org/39192744 | curated and reviewed |
 | 6 | NishiwakiH_2024 | https://github.com/waldronlab/BugSigDBcuration/issues/605 | https://bugsigdb.org/38773112  | curated and under review |
 | 7 | NuzumND_2023 | https://github.com/waldronlab/BugSigDBcuration/issues/606 | https://bugsigdb.org/37150399  | curated and under review |
-| 8 | BolliriC_2022 | https://github.com/waldronlab/BugSigDBcuration/issues/607 | https://bugsigdb.org/3585214 | under curation |
+| 8 | BolliriC_2022 | https://github.com/waldronlab/BugSigDBcuration/issues/607 | https://bugsigdb.org/3585214 | curated and under review |
 
 
 ## December 2024

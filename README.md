@@ -4,7 +4,7 @@ This repository keeps track of the datasets found in the literature and the effo
 
 ### February 2025
 
-With the help of Svetlana and the Outreachy initiative, we are adding 8 new shotgun datasets to BugSigDB.
+With the help of Svetlana (@SvetlanaUP) and the Outreachy contributors, we are adding 8 new shotgun datasets to BugSigDB.
 
 | Item | Study | GitHub issue | BugSigDB Study | Status |
 |---|---|---|---|---|
@@ -16,6 +16,21 @@ With the help of Svetlana and the Outreachy initiative, we are adding 8 new shot
 | 6 | NishiwakiH_2024 | https://github.com/waldronlab/BugSigDBcuration/issues/605 | https://bugsigdb.org/38773112  | curated and reviewed |
 | 7 | NuzumND_2023 | https://github.com/waldronlab/BugSigDBcuration/issues/606 | https://bugsigdb.org/37150399  | curated and reviewed |
 | 8 | BolliriC_2022 | https://github.com/waldronlab/BugSigDBcuration/issues/607 | https://bugsigdb.org/35852145 | curated and reviewed |
+
+Summary of PD studies selection and curation process in BugSigDB:
+```
+Papers selected by @g-antonello: 16
+Preprints (BugSigDB does not accept preprints): 3
+Papers with no significant differential abundance results to curate: 2
+BugSigDB already curated: 3
+BugSigDB additionally curated by Kate Rasheed, Svetlana Ugarcina Perovic and bugsigdb reviewers: 8
+```
+Our protocol for a flowchart of the selection process for eligible articles in the PubMed database:
+**Identification:** https://pubmed.ncbi.nlm.nih.gov/?term=parkinson%2C+microbiome%2C+microbiota
+**Screening:** manual screening for papers not already included in BugSigDB (until July 2024) with significant differential abundance results
+**Included:** 42 papers <- sharing a list of our PD curation efforts by Outreachy contributors and Svetlana (since July 2024): https://github.com/waldronlab/BugSigDBcuration/issues?q=is%3Aissue%20state%3Aclosed%20parkinson%20label%3Areviewed
+
+NOTE: we selected both amplicon and whole genome sequencing studies.
 
 
 ## December 2024

@@ -15,7 +15,7 @@ With the help of Svetlana and the Outreachy initiative, we are adding 8 new shot
 | 5 | Metcalfe-RoachA_2024 | https://github.com/waldronlab/BugSigDBcuration/issues/604 | https://bugsigdb.org/39192744 | curated and reviewed |
 | 6 | NishiwakiH_2024 | https://github.com/waldronlab/BugSigDBcuration/issues/605 | https://bugsigdb.org/38773112  | curated and reviewed |
 | 7 | NuzumND_2023 | https://github.com/waldronlab/BugSigDBcuration/issues/606 | https://bugsigdb.org/37150399  | curated and reviewed |
-| 8 | BolliriC_2022 | https://github.com/waldronlab/BugSigDBcuration/issues/607 | https://bugsigdb.org/3585214 | curated and reviewed |
+| 8 | BolliriC_2022 | https://github.com/waldronlab/BugSigDBcuration/issues/607 | https://bugsigdb.org/35852145 | curated and reviewed |
 
 
 ## December 2024
